@@ -10,10 +10,10 @@
 * IDE：GoLand/Vscode
 
 
-
+<br>
 ### 文件说明&运行方式
 
->##### ==*<u>main.go, cache.go, model.go需要一起运行</u>*==
+>##### *<u>main.go, cache.go, model.go需要一起运行</u>*
 >
 >*  **main.go是主要程序**
 >
@@ -36,7 +36,7 @@
 详见博客
 
 
-
+<br>
 ### 实现的功能
 * 使用缓冲区读取大数据文本
 * 多协程并发将数据写入文件
@@ -44,13 +44,13 @@
 * 二级缓存查询数据（精确查询和模糊查询）
 * 内存缓存+动态清理
 
-
+<br>
 
 ### 项目具体过程：
 
 - https://blog.csdn.net/hxxjxw/article/details/105618767
 
-
+<br>
 
 ### 关于kfX.txt文件的说明
 
